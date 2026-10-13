@@ -33,6 +33,4 @@ Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Statsmodels and scikit-lear
    jupyter notebook
    ```
 
-   For the regression exercise, open the notebook in `Regression`.
-
 
