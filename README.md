@@ -26,7 +26,7 @@ Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Statsmodels and scikit-lear
    pip install -r requirements.txt
    ```
 
-2. Open Jupyter from the `TP1-Time-Series` directory when running the autoroute notebooks, so that the relative path to `autoroute.csv` resolves correctly:
+2. Open Jupyter from the `Time-Series` directory when running the autoroute notebooks, so that the relative path to `autoroute.csv` resolves correctly:
 
    ```bash
    cd Time-Series
