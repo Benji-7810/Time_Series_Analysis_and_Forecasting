@@ -2,9 +2,7 @@
 
 ## Overview
 
-A collection of **academic practical assignments** completed during Applied Mathematics and Computer Science engineering studies at CY Tech. The exercises explore time series decomposition, trend and seasonality analysis, synthetic data generation, and linear regression using Python.
-
-These notebooks are coursework exercises, not an independent end-to-end research project. Some work was completed in collaboration with Noé François.
+This project explore time series decomposition, trend and seasonality analysis, synthetic data generation, and linear regression using Python.
 
 ## Contents
 
